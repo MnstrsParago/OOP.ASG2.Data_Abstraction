@@ -71,11 +71,9 @@ public class Main {
         Reservation res1 = new Reservation(flight1, passenger1, "R001");
         Reservation res2 = new Reservation(flight2, passenger2, "R002");
 
-        // Display Reservation Details
         res1.displayInfo();
         res2.displayInfo();
 
-        // Compare Flights
         System.out.println("Are flights the same? " + flight1.equals(flight2));
     }
 }
