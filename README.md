@@ -37,9 +37,9 @@ Each class encapsulates relevant attributes and behaviors, enabling clear object
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/OOP.ASG2.Data_Abstraction.git
-Open in IntelliJ IDEA (or any IDE of your choice).
+2. Open in IntelliJ IDEA (or any IDE of your choice).
 
-Run Main.java.
+3. Run Main.java.
 
 📘 Reflection
 This project was developed as part of the OOP. I enjoyed modeling real-world systems and applying theoretical concepts into working code. Although I found the experience valuable and the structure of the code quite solid from my current perspective.
