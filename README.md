@@ -1,7 +1,7 @@
 # Airline Reservation System
 
 **Subject:** Object-Oriented Programming  
-**Assignment:** OOP.ASG2.Data_Abstraction  
+**Assignment 2:** Data Abstraction  
 **Student:** Ayazbek Abdanur
 
 ## 📌 Project Description
